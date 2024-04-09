@@ -1,0 +1,1 @@
+These Supplementary tables are part of the manuscript "Isolation and Characterization of Two Mesophilic, Hydrogenotrophic Methanogens, WWM1085 and M. smithii GRAZ-2, from Human Fecal Samples: Description of a Novel Species and Strain", submitted to IJSEM. 
