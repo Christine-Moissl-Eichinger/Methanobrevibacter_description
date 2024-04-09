@@ -1,0 +1,7 @@
+Supplementary Table S4: Distance Matrix of mcrA genes				
+	Methanobrevibacter_smithii_DSM_2374_mcrA	Methanobrevibacter_smithii_DSM_2375_mcrA	Methanobrevibacter_smithii_ATCC_35061_DSM_861_v2	Methanobrevibacter_smithii_A_GUT_GENOME143185
+Methanobrevibacter_smithii_DSM_2374_mcrA				
+Methanobrevibacter_smithii_DSM_2375_mcrA	0.001815			
+Methanobrevibacter_smithii_ATCC_35061_DSM_861_v2	0.003636	0.001815		
+Methanobrevibacter_smithii_A_GUT_GENOME143185_WWM1085 	0.033136	0.031162	0.033136	
+GRAZ-2 MBBS2_v1_0695	0.002422	0.000604	0.001209	0.031823
