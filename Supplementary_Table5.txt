@@ -1,4 +1,4 @@
-Supplementary Table S6: ANI values of full genome comparisons.												
+Supplementary Table S5: ANI values of full genome comparisons.												
 #ANIb and aligned percentage												
 												
 	CP000678-1_Mbb_smithii_DSM861_PS_isolate.fasta	GCA_000151225_GUT_GENOME132205_Mbb_smithii_DSM2374_F1_isolate.fna	GCA_000151245_Mbb_smithii_DSM2375_ALI_isolate.fna	GUT_GENOME143185_Mbb_smithii_A_isolate.fa	Mbb_smithii_GRAZ-2_isolate.fasta	Methanobrevibacter sp. A54	Methanobrevibacter woesei DSM 11979 [T]	Methanobrevibacter oralis DSM 7256 [T]	Methanobrevibacter millerae SM9	Methanobrevibacter olleyae DSM 16632 [T]	Methanobrevibacter cuticularis DSM 11139 [T]	Methanobrevibacter curvatus DSM 11111 [T]
