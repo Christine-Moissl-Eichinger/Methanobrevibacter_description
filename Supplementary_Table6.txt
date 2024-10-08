@@ -1,4 +1,4 @@
-"Supplementary Table S7: Metabolomics, concentrations in uM/L"				
+"Supplementary Table S6: Metabolomics, concentrations in uM/L"				
 				
 				
 BLANKS (GRAZ-2 and ALI)	group	Acetate	Formic acid	Succinic acid
