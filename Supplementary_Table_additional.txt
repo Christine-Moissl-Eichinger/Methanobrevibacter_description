@@ -1,23 +1,23 @@
-Supplementary Table S5: Genomes and all associated information used herein for comparisons (na: not available).											
+Supplementary Table additional: Genomes and all associated information used herein for comparisons (na: not available).											
 											
 Genus	species (GTDB)	Isolate/MAG	Genome name	Isolation source	Strain	Culture collections	ncbi taxonomy	link			
-Methanobrevibacter	acididurans 	Isolate	na	sour anaerobic digester		MCM B 613T ;  OCM 804T ;  ATMT ;  DSM 15163T ;  	120963	na			
+Methanobrevibacter	acididuransÂ 	Isolate	na	sour anaerobic digester		MCM B 613TÂ ;Â Â OCM 804TÂ ;Â Â ATMTÂ ;Â Â DSM 15163TÂ ;Â Â 	120963	na			
 Methanobrevibacter	arboriphilus	Isolate	GCF_000513315_GUT_GENOME287004_Mbb_arboriphilus_isolate	Human	ANOR1						
-Methanobrevibacter	arboriphilus 	Isolate	GCA_002072215_Mbb_arboriphilus_isolate	Cotton wood tree		OCM 147T ;  ATCC 33747T ;  DSM 1125T ;  JCM 13429T ( GCM10003648 ) ;  DH1T ( GCM10004889 )	39441	https://www.ncbi.nlm.nih.gov/datasets/taxonomy/39441/			
-Methanobrevibacter	arboriphilus 	Isolate	na	"Anaerobic sewage digester in Kitakyusyu, Japan"		DSM 2462; JCM 9316	39441				
-Methanobrevibacter	arboriphilus 	Isolate	na	"Paddy field soil in Chikugo, Fukuoka, Japan"		DSM 7056;  JCM 9315; NBRC 101200	39441				
-Methanobrevibacter	arboriphilus 	Isolate	na	digested sewage sludge		DSM 744;  OCM 137					
-Methanobrevibacter	arboriphilus 	Isolate	na	soil		DSM 1536	39441				
-Methanobrevibacter	boviskoreani	Isolate	GCA_000320505_Mbb_boviskoreani_isolate	"Cattle, korean"		JH-1T ;  JCM 18376T ;  JH1T ( GCM10001203 ) ;  DSM 25824T ;  KCTC 4102T ;  	1214066	https://www.ncbi.nlm.nih.gov/assembly/GCF_000320505.1/			https://bacdive.dsmz.de/strain/24156
+Methanobrevibacter	arboriphilusÂ 	Isolate	GCA_002072215_Mbb_arboriphilus_isolate	Cotton wood tree		OCM 147TÂ ;Â Â ATCC 33747TÂ ;Â Â DSM 1125TÂ ;Â Â JCM 13429TÂ (Â GCM10003648Â )Â ;Â Â DH1TÂ (Â GCM10004889Â )	39441	https://www.ncbi.nlm.nih.gov/datasets/taxonomy/39441/			
+Methanobrevibacter	arboriphilusÂ 	Isolate	na	"Anaerobic sewage digester in Kitakyusyu, Japan"		DSM 2462; JCM 9316	39441				
+Methanobrevibacter	arboriphilusÂ 	Isolate	na	"Paddy field soil in Chikugo, Fukuoka, Japan"		DSM 7056;  JCM 9315; NBRC 101200	39441				
+Methanobrevibacter	arboriphilusÂ 	Isolate	na	digested sewage sludge		DSM 744;  OCM 137					
+Methanobrevibacter	arboriphilusÂ 	Isolate	na	soil		DSM 1536	39441				
+Methanobrevibacter	boviskoreani	Isolate	GCA_000320505_Mbb_boviskoreani_isolate	"Cattle, korean"		JH-1TÂ ;Â Â JCM 18376TÂ ;Â Â JH1TÂ (Â GCM10001203Â )Â ;Â Â DSM 25824TÂ ;Â Â KCTC 4102TÂ ;Â Â 	1214066	https://www.ncbi.nlm.nih.gov/assembly/GCF_000320505.1/			https://bacdive.dsmz.de/strain/24156
 Methanobrevibacter	curvatus	Isolate	GCA_001639295_Mbb_curvatus_isolate	Termite				https://www.ncbi.nlm.nih.gov/assembly/GCF_001639295.1/			
 Methanobrevibacter	cuticularis	Isolate	GCA_001639285_Mbb_cuticularis_isolate	Termite			1348249	https://www.ncbi.nlm.nih.gov/assembly/GCF_001639285.1/			
 Methanobrevibacter	filiformis	Isolate	GCA_001639265_Mbb_filiformis_isolate	Termite				https://www.ncbi.nlm.nih.gov/assembly/GCF_001639265.1/			
 Methanobrevibacter	gottschalkii	Isolate	GCA_900109595_Mbb_gottschalkii_isolate	Horse				https://www.ncbi.nlm.nih.gov/assembly/GCF_003814835.1/			
 Methanobrevibacter	millerae	Isolate	GCA_900103415_Mbb_millerae_isolate	Cattle				https://www.ncbi.nlm.nih.gov/assembly/GCF_900103415.1/			
-Methanobrevibacter	olleyae	Isolate	GCA_001563245_Mbb_olleyae_isolate	Sheep		OCM 841T ;  KM1H5-1PT ;  DSM 16632T ( GCM10007585 ) ;  	294671	https://www.ncbi.nlm.nih.gov/assembly/GCF_900114585.1/			
+Methanobrevibacter	olleyae	Isolate	GCA_001563245_Mbb_olleyae_isolate	Sheep		OCM 841TÂ ;Â Â KM1H5-1PTÂ ;Â Â DSM 16632TÂ (Â GCM10007585Â )Â ;Â Â 	294671	https://www.ncbi.nlm.nih.gov/assembly/GCF_900114585.1/			
 Methanobrevibacter	oralis	Isolate	GCF_000529525_GUT_GENOME132204_Mbb_oralis_isolate	Human gut							
-Methanobrevibacter	oralis 	Isolate	GCA_001639275_Mbb_oralis_isolate	Human subgingival plaque		ZRT ;  DSM 7256T ( GCM10004360 ) ;  JCM 30027T ;  	66851				
-Methanobrevibacter	ruminantium	Isolate	GCA_000024185_Mbb_ruminantium_isolate	Cattle	M1	OCM 146T ;  ATCC 35063T ;  M1T ( GCM10017209 ) ;  DSM 1093T ;  JCM 13430T ;  	83816	https://www.ncbi.nlm.nih.gov/assembly/GCF_000024185.1/			
+Methanobrevibacter	oralisÂ 	Isolate	GCA_001639275_Mbb_oralis_isolate	Human subgingival plaque		ZRTÂ ;Â Â DSM 7256TÂ (Â GCM10004360Â )Â ;Â Â JCM 30027TÂ ;Â Â 	66851				
+Methanobrevibacter	ruminantium	Isolate	GCA_000024185_Mbb_ruminantium_isolate	Cattle	M1	OCM 146TÂ ;Â Â ATCC 35063TÂ ;Â Â M1TÂ (Â GCM10017209Â )Â ;Â Â DSM 1093TÂ ;Â Â JCM 13430TÂ ;Â Â 	83816	https://www.ncbi.nlm.nih.gov/assembly/GCF_000024185.1/			
 Methanobrevibacter	smithii	Isolate	CP000678-1_Mbb_smithii_DSM861_PS_isolate	primary sewage digester	PS	"DSM 861, ATCC 35061, JCM 30028, OCM 144"	420247				
 Methanobrevibacter	smithii	Isolate	GCA_000151225_GUT_GENOME132205_Mbb_smithii_DSM2374_F1_isolate	Human	F1	DSM 2374					
 Methanobrevibacter	smithii	Isolate	GCA_000151245_Mbb_smithii_DSM2375_ALI_isolate	Human	ALI	DSM 2375					
@@ -56,10 +56,10 @@ Methanobrevibacter	smithii_A	MAG	GUT_GENOME272533_Mbb_smithii_A	Human
 Methanobrevibacter	smithii_A	MAG	GUT_GENOME284192_Mbb_smithii_A	Human							
 Methanobrevibacter	smithii_A	MAG	GUT_GENOME285252_Mbb_smithii_A	Human							
 Methanobrevibacter	sp. 	MAG	GUT_GENOME264147_Mbb_sp	Human							
-Methanobrevibacter	sp. 	MAG	GUT_GENOME014311_Mbb_sp	Human		na					
-Methanobrevibacter	sp. 	MAG	GUT_GENOME029117_Mbb_sp	Human		na					
-Methanobrevibacter	sp. 	MAG	GUT_GENOME236870_Mbb_sp	Human		na					
-Methanobrevibacter	thaueri	Isolate	GCA_003111625_Mbb_thaueri_isolate	Cattle		DSM 11995T ( GCM10005879 ) ;  CWT ;  DSM 11955T ;  OCM 817T ;  		https://www.ncbi.nlm.nih.gov/assembly/GCF_003111625.1/			
-Methanobrevibacter	woesei	Isolate	GCA_003111605_Mbb_woesei_isolate	Goose		OCM 815T ;  DSM 11979T ( GCM10005878 ) ;  GST ;  		https://www.ncbi.nlm.nih.gov/assembly/GCF_003111605.1/			
+Methanobrevibacter	sp.Â 	MAG	GUT_GENOME014311_Mbb_sp	Human		na					
+Methanobrevibacter	sp.Â 	MAG	GUT_GENOME029117_Mbb_sp	Human		na					
+Methanobrevibacter	sp.Â 	MAG	GUT_GENOME236870_Mbb_sp	Human		na					
+Methanobrevibacter	thaueri	Isolate	GCA_003111625_Mbb_thaueri_isolate	Cattle		DSM 11995TÂ (Â GCM10005879Â )Â ;Â Â CWTÂ ;Â Â DSM 11955TÂ ;Â Â OCM 817TÂ ;Â Â 		https://www.ncbi.nlm.nih.gov/assembly/GCF_003111625.1/			
+Methanobrevibacter	woesei	Isolate	GCA_003111605_Mbb_woesei_isolate	Goose		OCM 815TÂ ;Â Â DSM 11979TÂ (Â GCM10005878Â )Â ;Â Â GSTÂ ;Â Â 		https://www.ncbi.nlm.nih.gov/assembly/GCF_003111605.1/			
 Methanobrevibacter	woesei	MAG	GUT_GENOME263468_Mbb_woesei	Human							
-Methanobrevibacter	wolinii	Isolate	GCA_000621965-1_Mbb_wolinii_isolate	Sheep	SH 	SHT ( GCM10002361 ) ;  DSM 11976T ;  OCM 814T ;  ATCC BAA-1170T ;  		https://www.ncbi.nlm.nih.gov/assembly/GCF_000621965.1/			
+Methanobrevibacter	wolinii	Isolate	GCA_000621965-1_Mbb_wolinii_isolate	Sheep	SH 	SHTÂ (Â GCM10002361Â )Â ;Â Â DSM 11976TÂ ;Â Â OCM 814TÂ ;Â Â ATCC BAA-1170TÂ ;Â Â 		https://www.ncbi.nlm.nih.gov/assembly/GCF_000621965.1/			
