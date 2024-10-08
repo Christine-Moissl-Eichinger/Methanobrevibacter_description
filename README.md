@@ -1,1 +1,1 @@
-These Supplementary tables are part of the manuscript "Isolation and Characterization of Two Mesophilic, Hydrogenotrophic Methanogens, WWM1085 and M. smithii GRAZ-2, from Human Fecal Samples: Description of a Novel Species and Strain", submitted to IJSEM. 
+These Supplementary tables are part of the manuscript "Expanding the cultivable human archaeome: Methanobrevibacter intestini sp. nov. and strain Methanobrevibacter smithii “GRAZ-2” from human feces", submitted to IJSEM. 
